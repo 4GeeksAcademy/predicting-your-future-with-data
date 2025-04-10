@@ -18,6 +18,7 @@
       "Seaborn"
     ],
     "projectType": "project",
+    "preview": "https://github.com/4GeeksAcademy/predicting-your-future-with-data/blob/main/preview.png?raw=true",
     "template_url": "https://github.com/4GeeksAcademy/machine-learning-python-template",
     "gitpod":true
   }
