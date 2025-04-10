@@ -2,11 +2,11 @@
     "slug": "predicting-your-future-with-data",
     "title": {
       "es": "Sistemas de Recomendación - Tu Futuro según la Data",
-      "en": "Recommendation Systems - Your Future with Data"
+      "us": "Recommendation Systems - Your Future with Data"
     },
     "description": {
       "es": "Construye un modelo de clasificación supervisada para predecir si una persona superará cierto umbral de ingresos anuales a partir de datos demográficos, y desarrolla un sistema de recomendación interpretativo que sugiera caminos alternativos para mejorar su situación.",
-      "en": "Build a supervised classification model to predict whether a person will surpass a certain annual income threshold based on demographic data, and develop an interpretative recommendation system that suggests alternative paths to improve their situation."
+      "us": "Build a supervised classification model to predict whether a person will surpass a certain annual income threshold based on demographic data, and develop an interpretative recommendation system that suggests alternative paths to improve their situation."
     },
     "duration": 5,
     "difficulty": "intermediate",
